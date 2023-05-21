@@ -10,7 +10,7 @@ This is a solution to the [Coding bootcamp testimonials slider challenge on Fron
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author
+- [Author](#author)
 
 ## Overview
 
